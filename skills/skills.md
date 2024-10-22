@@ -48,3 +48,11 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+- ## 6. Asymmetric Key Cryptography
+
+It is a type of encryption where encryption is done by sharing your public key 
+
+**Resources:**
+- [Geeksforgeeks - Asymmetric Key Cryptography](https://www.geeksforgeeks.org/asymmetric-key-cryptography/)
+- [Khan Academy - Asymmetric Key Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography/crypt)
