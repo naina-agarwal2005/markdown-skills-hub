@@ -45,6 +45,11 @@ Quantum mechanics is a fundamental theory in physics that describes the physical
 
 Thermodynamics is a branch of physics that deals with heat, work, temperature, and their relation to energy, radiation, and the physical properties of matter.
 
+## 6. Kinematics
+
+Kinematics is the branch of mechanics that describes the motion of objects by analyzing parameters like position, displacement, velocity, and acceleration over time, without considering the forces or masses involved. It provides a framework for understanding how objects move, including their speed and direction, in both one-dimensional and multi-dimensional spaces.
+
+
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
