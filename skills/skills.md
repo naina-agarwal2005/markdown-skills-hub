@@ -49,6 +49,7 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
+
 ## 6. Kinematics:
 
 Kinematics is the study of the motion of mechanical points, bodies and systems without consideration of their associated physical properties and the forces acting on them.
@@ -64,3 +65,6 @@ It is a type of encryption where encryption is done by sharing your public key
 - [Geeksforgeeks - Asymmetric Key Cryptography](https://www.geeksforgeeks.org/asymmetric-key-cryptography/)
 - [Khan Academy - Asymmetric Key Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography/crypt)
 
+## 8.DATA SCIENCE
+- [Khan Academy - DATA SCIENCE](https://www.khanacademy.org/science/physics/thermodynamics)
+- [HyperPhysics - DATA SCIENCE](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
