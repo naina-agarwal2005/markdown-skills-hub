@@ -56,3 +56,10 @@ Kinematics is the study of the motion of mechanical points, bodies and systems w
 - [Crash Course Physics - Kinematics](https://www.youtube.com/playlist?list=PL8dPuuaLjxdWh7kDudTA_8jY6L-mKn-Zc)
 - [MIT OpenCourseWare - Kinematics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
 
+  ## 7. laser:
+
+laser is a light amplification of stimulated emission of radiation.
+
+**Resources:**
+- [khan academy - laser]([https://www.khanacademy.org/science/physics/thermodynamics](https://www.khanacademy.org/computer-programming/laser/5184043119968256))
+- [physics wallah - laser]((https://www.pw.live/chapter-chapter-light/optics))
