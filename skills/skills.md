@@ -56,3 +56,11 @@ Kinematics is the study of the motion of mechanical points, bodies and systems w
 - [Crash Course Physics - Kinematics](https://www.youtube.com/playlist?list=PL8dPuuaLjxdWh7kDudTA_8jY6L-mKn-Zc)
 - [MIT OpenCourseWare - Kinematics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
 
+## 7. Asymmetric Key Cryptography
+
+It is a type of encryption where encryption is done by sharing your public key 
+
+**Resources:**
+- [Geeksforgeeks - Asymmetric Key Cryptography](https://www.geeksforgeeks.org/asymmetric-key-cryptography/)
+- [Khan Academy - Asymmetric Key Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography/crypt)
+
