@@ -49,8 +49,8 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
-
 ## 6. Kinematics:
+
 
 Kinematics is the study of the motion of mechanical points, bodies and systems without consideration of their associated physical properties and the forces acting on them.
 **Resources:**
@@ -77,3 +77,11 @@ laser is a light amplification of stimulated emission of radiation.
 **Resources:**
 - [khan academy - laser]([https://www.khanacademy.org/science/physics/thermodynamics](https://www.khanacademy.org/computer-programming/laser/5184043119968256))
 - [physics wallah - laser]((https://www.pw.live/chapter-chapter-light/optics))
+
+## 10. Generative AI
+
+Generative AI is a branch of Aritificial intelligence that image to image generation. Its the subset of Deep learning. The superset of all these is Aritificial in telligence.
+
+**Resources:**
+- [freecodecamp - Generative AI](https://www.youtube.com/watch?v=mEsleV16qdo)
+- [CodewithHarry - Generative AI](https://www.youtube.com/watch?v=lv7ka-8FscI&t=10s)
