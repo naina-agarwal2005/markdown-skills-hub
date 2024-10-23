@@ -49,6 +49,7 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
+
 ## 6. Kinematics:
 
 Kinematics is the study of the motion of mechanical points, bodies and systems without consideration of their associated physical properties and the forces acting on them.
@@ -56,7 +57,20 @@ Kinematics is the study of the motion of mechanical points, bodies and systems w
 - [Crash Course Physics - Kinematics](https://www.youtube.com/playlist?list=PL8dPuuaLjxdWh7kDudTA_8jY6L-mKn-Zc)
 - [MIT OpenCourseWare - Kinematics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
 
-  ## 7. laser:
+
+## 7. Asymmetric Key Cryptography
+
+It is a type of encryption where encryption is done by sharing your public key 
+
+**Resources:**
+- [Geeksforgeeks - Asymmetric Key Cryptography](https://www.geeksforgeeks.org/asymmetric-key-cryptography/)
+- [Khan Academy - Asymmetric Key Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography/crypt)
+
+## 8.DATA SCIENCE
+- [Khan Academy - DATA SCIENCE](https://www.khanacademy.org/science/physics/thermodynamics)
+- [HyperPhysics - DATA SCIENCE](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+## 9. laser:
 
 laser is a light amplification of stimulated emission of radiation.
 
