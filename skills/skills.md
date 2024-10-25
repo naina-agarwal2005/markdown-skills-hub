@@ -86,11 +86,18 @@ Generative AI is a branch of Aritificial intelligence that image to image genera
 - [freecodecamp - Generative AI](https://www.youtube.com/watch?v=mEsleV16qdo)
 - [CodewithHarry - Generative AI](https://www.youtube.com/watch?v=lv7ka-8FscI&t=10s)
 
-- ## 12 quantam computers.
+## 11 waveoptics
+
+Wave optics studies light as a wave, explaining phenomena like interference, diffraction, and polarization. It goes beyond geometrical optics to describe wave behaviors such as bending, spreading, and pattern formation.
+
+**Resources:**
+- [ashish arora-wave optics](https://www.youtube.com/playlist?list=PLv2aNkLwdGweEBdedvxdFDKqGhcmww89z)
+- [eduniti-waveoptics](https://www.youtube.com/playlist?list=PLjvx7xqdpePJ3lHx7uc5dSi-JqmJweDSZ)
+
+## 12 quantam computers.
 
 Quantum computers use the principles of quantum mechanics (superposition, entanglement) to process information in qubits, allowing them to solve complex problems much faster than classical computers
 
 **Resources:**
 - [quantum zeitgeist-quantum computers](https://quantumzeitgeist.com/top-10-free-resources-for-quantum-computing/)
 - [microsoft-quantum computers](https://learn.microsoft.com/en-us/azure/quantum/)
-- 
