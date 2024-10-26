@@ -126,3 +126,11 @@ Quantum computers use the principles of quantum mechanics (superposition, entang
   ## C Programming
   -[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
   -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
+
+## 113. Dark Matter
+
+In astronomy, dark matter is a hypothetical form of matter that does not interact with light or other electromagnetic radiation.
+
+**Resources:**
+- [NASA - Dark Matter and Dark Energy](https://science.nasa.gov/universe/dark-matter-dark-energy/)
+- [Space- What is Dark Matter?](https://www.space.com/20930-dark-matter.html)
