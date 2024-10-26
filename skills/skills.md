@@ -101,3 +101,7 @@ Quantum computers use the principles of quantum mechanics (superposition, entang
 **Resources:**
 - [quantum zeitgeist-quantum computers](https://quantumzeitgeist.com/top-10-free-resources-for-quantum-computing/)
 - [microsoft-quantum computers](https://learn.microsoft.com/en-us/azure/quantum/)
+
+  ## C Programming
+  -[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
+  -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
