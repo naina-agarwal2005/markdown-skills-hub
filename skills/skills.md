@@ -41,7 +41,7 @@ Quantum mechanics is a fundamental theory in physics that describes the physical
 - [Crash Course Physics - Quantum Mechanics](https://www.youtube.com/playlist?list=PL8dPuuaLjxdWh7kDudTA_8jY6L-mKn-Zc)
 - [MIT OpenCourseWare - Quantum Mechanics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
 
-## 5. Thermodynamics 
+### 5. Thermodynamics 
 
 Thermodynamics is a branch of physics that deals with heat, work, temperature, and their relation to energy, radiation, and the physical properties of matter.
 
@@ -49,7 +49,12 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
-## 6. Kinematics:
+ ## 6.aerodynamics
+aerodynamics is a branch of physics that deals with air resistance of the object
+for further information refer 
+https://chatgpt.com/
+
+## 7. Kinematics:
 
 
 Kinematics is the study of the motion of mechanical points, bodies and systems without consideration of their associated physical properties and the forces acting on them.
@@ -58,7 +63,7 @@ Kinematics is the study of the motion of mechanical points, bodies and systems w
 - [MIT OpenCourseWare - Kinematics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
 
 
-## 7. Asymmetric Key Cryptography
+## 8. Asymmetric Key Cryptography
 
 It is a type of encryption where encryption is done by sharing your public key 
 
@@ -66,11 +71,11 @@ It is a type of encryption where encryption is done by sharing your public key
 - [Geeksforgeeks - Asymmetric Key Cryptography](https://www.geeksforgeeks.org/asymmetric-key-cryptography/)
 - [Khan Academy - Asymmetric Key Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography/crypt)
 
-## 8.DATA SCIENCE
+## 9.DATA SCIENCE
 - [Khan Academy - DATA SCIENCE](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - DATA SCIENCE](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
-## 9. laser:
+## 10. laser:
 
 laser is a light amplification of stimulated emission of radiation.
 
@@ -78,7 +83,7 @@ laser is a light amplification of stimulated emission of radiation.
 - [khan academy - laser]([https://www.khanacademy.org/science/physics/thermodynamics](https://www.khanacademy.org/computer-programming/laser/5184043119968256))
 - [physics wallah - laser]((https://www.pw.live/chapter-chapter-light/optics))
 
-## 10. Generative AI
+## 11. Generative AI
 
 Generative AI is a branch of Aritificial intelligence that image to image generation. Its the subset of Deep learning. The superset of all these is Aritificial in telligence.
 
@@ -86,7 +91,7 @@ Generative AI is a branch of Aritificial intelligence that image to image genera
 - [freecodecamp - Generative AI](https://www.youtube.com/watch?v=mEsleV16qdo)
 - [CodewithHarry - Generative AI](https://www.youtube.com/watch?v=lv7ka-8FscI&t=10s)
 
-## 11 waveoptics
+## 12 waveoptics
 
 Wave optics studies light as a wave, explaining phenomena like interference, diffraction, and polarization. It goes beyond geometrical optics to describe wave behaviors such as bending, spreading, and pattern formation.
 
@@ -94,7 +99,7 @@ Wave optics studies light as a wave, explaining phenomena like interference, dif
 - [ashish arora-wave optics](https://www.youtube.com/playlist?list=PLv2aNkLwdGweEBdedvxdFDKqGhcmww89z)
 - [eduniti-waveoptics](https://www.youtube.com/playlist?list=PLjvx7xqdpePJ3lHx7uc5dSi-JqmJweDSZ)
 
-## 12 quantam computers.
+## 13 quantam computers.
 
 Quantum computers use the principles of quantum mechanics (superposition, entanglement) to process information in qubits, allowing them to solve complex problems much faster than classical computers
 
