@@ -56,5 +56,3 @@ Hypertext Markup Language (HTML) is the standard markup language for documents d
 **Resources:**
 - [HTML for beginners](https://html.com/)
 - [Apna College - HTML tutorial](https://www.youtube.com/watch?v=HcOc7P5BMi4)
-
-  
