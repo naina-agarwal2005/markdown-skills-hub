@@ -91,6 +91,14 @@ Generative AI is a branch of Aritificial intelligence that image to image genera
 - [freecodecamp - Generative AI](https://www.youtube.com/watch?v=mEsleV16qdo)
 - [CodewithHarry - Generative AI](https://www.youtube.com/watch?v=lv7ka-8FscI&t=10s)
 
+## 69. programming and game developing in C#
+
+C# is one of the best programming language for starting a career in game developement
+
+**Resources:**
+- [BRACKEYS ON YOUTUBE - C# Programming ](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
+- [BRACKEYS ON YOUTUBE - Game developing with unity using C#](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
+
 ## 12 waveoptics
 
 Wave optics studies light as a wave, explaining phenomena like interference, diffraction, and polarization. It goes beyond geometrical optics to describe wave behaviors such as bending, spreading, and pattern formation.
