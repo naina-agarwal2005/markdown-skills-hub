@@ -55,4 +55,4 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 
 **Resources:**
 - [Clarify Knowledge by pranay mishra - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
-- [Study With Sudir - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+- [Study With Sudir - Merchant of venice](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
