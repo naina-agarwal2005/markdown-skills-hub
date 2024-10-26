@@ -126,3 +126,11 @@ Quantum computers use the principles of quantum mechanics (superposition, entang
   ## C Programming
   -[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
   -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
+
+## 114. Acoustics
+
+The science concerned with the production, control, transmission, reception, and effects of sound
+
+**Resources:**
+- [BYU- What is Acoustics?](https://acoustics.byu.edu/what-is)
+- [Springer - Acoustical Physics](https://link.springer.com/journal/11441)
