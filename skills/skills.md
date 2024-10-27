@@ -125,4 +125,12 @@ Quantum computers use the principles of quantum mechanics (superposition, entang
 
   ## C Programming
   -[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
+
+  ## 25. Generative AI
+
+Generative AI is a branch of Aritificial intelligence that image to image generation. Its the subset of Deep learning. The superset of all these is Aritificial in telligence.
+
+**Resources:**
+- [freecodecamp - Generative AI](https://www.youtube.com/watch?v=mEsleV16qdo)
+- [CodewithHarry - Generative AI](https://www.youtube.com/watch?v=lv7ka-8FscI&t=10s)
   -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
