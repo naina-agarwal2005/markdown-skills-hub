@@ -125,4 +125,13 @@ Quantum computers use the principles of quantum mechanics (superposition, entang
 
   ## C Programming
   -[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
+
+## 10. Electrostatics
+
+Electrostatics is the study of stationary electric charges and their interactions. It forms the foundation for understanding concepts like electric fields, potential, and capacitance.
+
+**Resources:** 
+- [Khan Academy - Electrostatics](https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage)
+- [The Physics Classroom - Electrostatics](https://www.physicsclassroom.com/class/estatics)
+
   -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
