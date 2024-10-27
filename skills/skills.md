@@ -56,3 +56,11 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+## 7.  Kinematics
+
+Kinematics is the study of the motion of objects without considering the forces that cause the motion. It's a branch of physics and mathematics that's also known as the "geometry of motion"
+
+**Resources**
+-[Khan Academy - Kinematics](https://www.khanacademy.org/search?referer=%2Fscience%2Fphysics&page_search_query=kinematics)
+-[Khan Academy - Kinematics](https://www.khanacademy.org/science/ap-college-physics-1/xf557a762645cccc5:kinematics)
