@@ -136,6 +136,15 @@ Wave optics studies light as a wave, explaining phenomena like interference, dif
   -[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
   -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
 
+## 10. Electrostatics
+
+Electrostatics is the study of stationary electric charges and their interactions. It forms the foundation for understanding concepts like electric fields, potential, and capacitance.
+
+**Resources:** 
+- [Khan Academy - Electrostatics](https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage)
+- [The Physics Classroom - Electrostatics](https://www.physicsclassroom.com/class/estatics)
+
+
 ## 16. c++
 
  C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs 
