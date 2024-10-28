@@ -123,7 +123,8 @@ Quantum computers use the principles of quantum mechanics (superposition, entang
 - [quantum zeitgeist-quantum computers](https://quantumzeitgeist.com/top-10-free-resources-for-quantum-computing/)
 - [microsoft-quantum computers](https://learn.microsoft.com/en-us/azure/quantum/)
 
-## 35 waveoptics
+
+## 14 waveoptics
 
 Wave optics studies light as a wave, explaining phenomena like interference, diffraction, and polarization. It goes beyond geometrical optics to describe wave behaviors such as bending, spreading, and pattern formation.
 
@@ -131,8 +132,14 @@ Wave optics studies light as a wave, explaining phenomena like interference, dif
 - [ashish arora-wave optics](https://www.youtube.com/playlist?list=PLv2aNkLwdGweEBdedvxdFDKqGhcmww89z)
 - [eduniti-waveoptics](https://www.youtube.com/playlist?list=PLjvx7xqdpePJ3lHx7uc5dSi-JqmJweDSZ)
 
+## 15 Programming
+  -[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
+  -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
 
- 
+## 16. c++
 
+ C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs 
 
- 
+**Resources:**
+-[youtube- take you forward - dsa](https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
+
