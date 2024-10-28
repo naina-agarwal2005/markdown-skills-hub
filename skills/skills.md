@@ -126,3 +126,10 @@ Quantum computers use the principles of quantum mechanics (superposition, entang
   ## C Programming
   -[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
   -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
+
+  ## 14. c++
+
+ C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs 
+
+**Resources:**
+-[youtube- take you forward - dsa](https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
