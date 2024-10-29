@@ -168,3 +168,12 @@ Electrostatics is the study of stationary electric charges and their interaction
 **Resources:**
 -[youtube-ai & ml](https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq)
 -[coursera-ai and ml](https://www.coursera.org/learn/fundamentals-of-machine-learning-and-artificial-intelligence)
+
+## 18. R programming
+
+R programming is a language and environment primarily used for statistical computing and data analysis. 
+
+
+**Resources:**
+- [basics of R programming ](https://www.udemy.com/course/r-analytics/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-Search_Keyword_Beta_Prof_la.EN_cc.India&campaigntype=Search&portfolio=Bing-India&language=EN&product=Course&test=&audience=Keyword&topic=Artificial_Intelligence&priority=Beta&utm_content=deal4584&utm_term=_._ag_1328212434751390_._ad__._kw_R%20language_._de_c_._dm__._pl__._ti_kwd-83014398137523:loc-90_._li_155441_._pd__._&matchtype=p&msclkid=cb41d7c5f9c51b645593b0e521ded4fa)
+- [R tutorial](https://www.w3schools.com/r/)
