@@ -107,13 +107,13 @@ C# is one of the best programming language for starting a career in game develop
 - [BRACKEYS ON YOUTUBE - C# Programming ](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
 - [BRACKEYS ON YOUTUBE - Game developing with unity using C#](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
 
-## 12 waveoptics
+11. Generative AI
+Generative AI is a branch of Aritificial intelligence that image to image generation. Its the subset of Deep learning. The superset of all these is Aritificial in telligence.
 
-Wave optics studies light as a wave, explaining phenomena like interference, diffraction, and polarization. It goes beyond geometrical optics to describe wave behaviors such as bending, spreading, and pattern formation.
+Resources:
 
-**Resources:**
-- [ashish arora-wave optics](https://www.youtube.com/playlist?list=PLv2aNkLwdGweEBdedvxdFDKqGhcmww89z)
-- [eduniti-waveoptics](https://www.youtube.com/playlist?list=PLjvx7xqdpePJ3lHx7uc5dSi-JqmJweDSZ)
+freecodecamp - Generative AI
+CodewithHarry - Generative AI
 
 ## 13 quantam computers.
 
@@ -134,6 +134,14 @@ Wave optics studies light as a wave, explaining phenomena like interference, dif
 
 ## 15 Programming
   -[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
+  -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
+  11. Generative AI
+Generative AI is a branch of Aritificial intelligence that image to image generation. Its the subset of Deep learning. The superset of all these is Aritificial in telligence.
+
+Resources:
+
+freecodecamp - Generative AI
+CodewithHarry - Generative AI
 
   ## 25. Generative AI
 
@@ -142,9 +150,7 @@ Generative AI is a branch of Aritificial intelligence that image to image genera
 **Resources:**
 - [freecodecamp - Generative AI](https://www.youtube.com/watch?v=mEsleV16qdo)
 - [CodewithHarry - Generative AI](https://www.youtube.com/watch?v=lv7ka-8FscI&t=10s)
-  -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
-=======
-  -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
+-[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
 
 ## 10. Electrostatics
 
