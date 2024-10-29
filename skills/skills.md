@@ -135,6 +135,17 @@ Wave optics studies light as a wave, explaining phenomena like interference, dif
 ## 15 Programming
   -[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
   -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
+
+
+## 114. Acoustics
+
+
+The science concerned with the production, control, transmission, reception, and effects of sound
+
+**Resources:**
+- [BYU- What is Acoustics?](https://acoustics.byu.edu/what-is)
+- [Springer - Acoustical Physics](https://link.springer.com/journal/11441)
+
   11. Generative AI
 Generative AI is a branch of Aritificial intelligence that image to image generation. Its the subset of Deep learning. The superset of all these is Aritificial in telligence.
 
@@ -183,3 +194,4 @@ R programming is a language and environment primarily used for statistical compu
 **Resources:**
 - [basics of R programming ](https://www.udemy.com/course/r-analytics/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-Search_Keyword_Beta_Prof_la.EN_cc.India&campaigntype=Search&portfolio=Bing-India&language=EN&product=Course&test=&audience=Keyword&topic=Artificial_Intelligence&priority=Beta&utm_content=deal4584&utm_term=_._ag_1328212434751390_._ad__._kw_R%20language_._de_c_._dm__._pl__._ti_kwd-83014398137523:loc-90_._li_155441_._pd__._&matchtype=p&msclkid=cb41d7c5f9c51b645593b0e521ded4fa)
 - [R tutorial](https://www.w3schools.com/r/)
+
