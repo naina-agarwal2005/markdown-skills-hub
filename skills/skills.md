@@ -152,3 +152,9 @@ Electrostatics is the study of stationary electric charges and their interaction
 **Resources:**
 -[youtube- take you forward - dsa](https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 
+## 17. Ai and Machine learning.
+
+ AI (Artificial Intelligence) focuses on creating systems that can perform tasks requiring human-like intelligence, such as understanding language or recognizing images. ML (Machine Learning) is a subset of AI that enables systems to learn from data and improve performance on tasks over time without explicit programming.
+**Resources:**
+-[youtube-ai & ml](https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq)
+-[coursera-ai and ml](https://www.coursera.org/learn/fundamentals-of-machine-learning-and-artificial-intelligence)
