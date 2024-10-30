@@ -56,7 +56,6 @@ Theoretical physics is a branch of physics that uses mathematical models and the
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
-
 ## 7. Aerodynamics
 
 Aerodynamics is a branch of physics that deals with the air resistance of objects.
@@ -70,7 +69,7 @@ Kinematics is the study of the motion of mechanical points, bodies, and systems 
 
 **Resources:**
 - [Crash Course Physics - Kinematics](https://www.youtube.com/playlist?list=PL8dPuuaLjxdWh7kDudTA_8jY6L-mKn-Zc)
-- [MIT OpenCourseWare - Kinematics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
+- [MIT OpenCourseWare - Kinematics](https://ocw.mit.edu/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/)
 
 ## 9. Asymmetric Key Cryptography
 
@@ -306,3 +305,35 @@ The ratio of the change in an electric charge in a system to the corresponding c
 **Resources:**
 - [Byjus - Current electricity](https://byjus.com/physics/current-electricity/)
 - [Electrical4u - Current electricity](https://www.electrical4u.com/electric-current-and-theory-of-electricity/)
+
+## 39. HTML & CSS
+
+HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) are the foundational technologies used for structuring and styling web content. HTML provides the structure, and CSS defines the appearance of the web pages.
+
+**Resources:**
+- [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## 40. AI & Machine Learning
+
+Artificial Intelligence (AI) and Machine Learning (ML) involve creating algorithms that allow computers to learn from and make predictions or decisions based on data. Applications include image recognition, natural language processing, and recommendation systems.
+
+**Resources:**
+- [Coursera - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [Google AI - Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+
+## 41. Linear Algebra
+
+Linear algebra is the branch of mathematics concerning linear equations, linear functions, and their representations through matrices and vector spaces. It’s fundamental for understanding machine learning and computer graphics.
+
+**Resources:**
+- [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [MIT OpenCourseWare - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
+## 42. Data Structures & Algorithms
+
+Data structures and algorithms are essential topics in computer science, enabling efficient problem solving and data management. Understanding them is key to optimizing code and improving performance.
+
+**Resources:**
+- [GeeksforGeeks - Data Structures and Algorithms](https://www.geeksforgeeks.org/data-structures/)
+- [freeCodeCamp - Data Structures and Algorithms](https://www.freecodecamp.org/learn/)
