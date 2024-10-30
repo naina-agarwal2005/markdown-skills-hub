@@ -338,7 +338,7 @@ Data structures and algorithms are essential topics in computer science, enablin
 - [GeeksforGeeks - Data Structures and Algorithms](https://www.geeksforgeeks.org/data-structures/)
 - [freeCodeCamp - Data Structures and Algorithms](https://www.freecodecamp.org/learn/)
 
-## 43.Machine Learning Basics: 
+## 43.Machine Learning Basics
 Understanding of fundamental machine learning concepts
 Experience with libraries like scikit-learn or TensorFlow
 
@@ -346,9 +346,18 @@ Experience with libraries like scikit-learn or TensorFlow
 - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
 
 
-## 44.Data Wrangling:
+## 44.Data Wrangling
+
 Skills in cleaning and preparing data for analysis
 Knowledge of data formats (CSV, JSON, SQL databases)  
 
 **Resource**:
 - [Data Wrangling with Pandas by Kaggle](https://www.kaggle.com/learn/pandas)
+
+## 45 waveoptics
+
+Wave optics is basically a study of light as a wave, explaining phenomena like interference, diffraction, and polarization. It goes beyond geometrical optics to describe wave behaviors such as bending, spreading, and pattern formation.
+
+**Resources:**
+- [ashish arora-wave optics](https://www.youtube.com/playlist?list=PLv2aNkLwdGweEBdedvxdFDKqGhcmww89z)
+- [eduniti-waveoptics](https://www.youtube.com/playlist?list=PLjvx7xqdpePJ3lHx7uc5dSi-JqmJweDSZ)
