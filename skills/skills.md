@@ -170,6 +170,6 @@ R programming is a language and environment primarily used for statistical compu
 Thermodynamics is a branch of physics that deals with heat, work, temperature, and their relation to energy, radiation, and the physical properties of matter.
 
 **Resources:**
-- [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
-- [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+- [Khan Academy - integrtion](https://www.khanacademy.org/science/physics/thermodynamics)
+- [HyperPhysics - integrtion](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
