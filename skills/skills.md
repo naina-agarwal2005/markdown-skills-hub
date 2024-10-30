@@ -118,6 +118,7 @@ C# is one of the best programming languages for starting a career in game develo
 - [Brackeys on YouTube - C# Programming](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
 - [Brackeys on YouTube - Game Development with Unity using C#](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
 
+
 ## 15. Quantum Computers
 
 Quantum computers use the principles of quantum mechanics (superposition, entanglement) to process information in qubits, allowing them to solve complex problems much faster than classical computers.
