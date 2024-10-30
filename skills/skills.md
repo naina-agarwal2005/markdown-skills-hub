@@ -115,6 +115,11 @@ Resources:
 freecodecamp - Generative AI
 CodewithHarry - Generative AI
 
+12. Laser
+Light amplified stimulated emission radiationn
+**Resources**
+Physics class101
+
 ## 13 quantam computers.
 
 Quantum computers use the principles of quantum mechanics (superposition, entanglement) to process information in qubits, allowing them to solve complex problems much faster than classical computers
