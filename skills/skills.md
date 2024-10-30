@@ -206,6 +206,13 @@ Optics is the branch of physics that studies the behaviour and properties of lig
 
 Rotational motion is a branch of physics.
 
+## 28. Semiconductors
+
+Semiconductors are materials which have a conductivity between conductors (generally metals) and non-conductors or insulators (such as ceramics).
+
+**Resources:**
+- [Byjus -  Semiconductors ](https://byjus.com/jee/semiconductors/)
+=======
 ## 28. States of matter
 
 Study of the staes of matter
@@ -245,3 +252,4 @@ C++ is a high-level, general-purpose programming language known for its efficien
 **Resources:**
 - [Codecademy - Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
 - [freeCodeCamp - C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+
