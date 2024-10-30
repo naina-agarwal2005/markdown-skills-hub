@@ -182,6 +182,18 @@ Electrostatics is the study of stationary electric charges and their interaction
 - [Khan Academy - Electrostatics](https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage)
 - [The Physics Classroom - Electrostatics](https://www.physicsclassroom.com/class/estatics)
 
+  ## C Programming
+  -[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
+  -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
+
+## 113. Dark Matter
+
+In astronomy, dark matter is a hypothetical form of matter that does not interact with light or other electromagnetic radiation.
+
+**Resources:**
+- [NASA - Dark Matter and Dark Energy](https://science.nasa.gov/universe/dark-matter-dark-energy/)
+- [Space- What is Dark Matter?](https://www.space.com/20930-dark-matter.html)
+=======
 ## 23. Theory of Relativity
 
 The theory of relativity usually encompasses two interrelated physics theories by Albert Einstein: special relativity and general relativity, proposed and published in 1905 and 1915, respectively
@@ -214,7 +226,7 @@ Semiconductors are materials which have a conductivity between conductors (gener
 
 **Resources:**
 - [Byjus -  Semiconductors ](https://byjus.com/jee/semiconductors/)
-=======
+
 ## 28. States of matter
 
 Study of the staes of matter
