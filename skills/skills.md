@@ -181,3 +181,6 @@ Electrostatics is the study of stationary electric charges and their interaction
 - [Khan Academy - Electrostatics](https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage)
 - [The Physics Classroom - Electrostatics](https://www.physicsclassroom.com/class/estatics)
 
+## 23. Theory of Relativity
+
+The theory of relativity usually encompasses two interrelated physics theories by Albert Einstein: special relativity and general relativity, proposed and published in 1905 and 1915, respectively
