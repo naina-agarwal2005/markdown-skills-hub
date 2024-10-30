@@ -47,7 +47,6 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
  
-
 ## 6. Theoretical physics 
 Theoretical physics is a branch of physics that uses mathematical models and the properties of physical objects to understand and explain natural phenomena. 
 **Resources:**
@@ -230,3 +229,11 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+## 31. Quantum Computing 
+
+Quantum computing harnesses the principles of quantum mechanics to perform complex computations exponentially faster than classical computers.
+
+**Resources:**
+- [Youtube](https://youtu.be/2h1E3YJMKfA?si=YP695bruYUXcQMO7)
+
