@@ -337,3 +337,18 @@ Data structures and algorithms are essential topics in computer science, enablin
 **Resources:**
 - [GeeksforGeeks - Data Structures and Algorithms](https://www.geeksforgeeks.org/data-structures/)
 - [freeCodeCamp - Data Structures and Algorithms](https://www.freecodecamp.org/learn/)
+
+## 43.Machine Learning Basics: 
+Understanding of fundamental machine learning concepts
+Experience with libraries like scikit-learn or TensorFlow
+
+**Resource**:
+- [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
+
+
+## 44.Data Wrangling:
+Skills in cleaning and preparing data for analysis
+Knowledge of data formats (CSV, JSON, SQL databases)  
+
+**Resource**:
+- [Data Wrangling with Pandas by Kaggle](https://www.kaggle.com/learn/pandas)
