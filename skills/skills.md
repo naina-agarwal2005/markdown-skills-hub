@@ -56,6 +56,7 @@ Theoretical physics is a branch of physics that uses mathematical models and the
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
+
 ## 7. Aerodynamics
 
 Aerodynamics is a branch of physics that deals with the air resistance of objects.
@@ -70,14 +71,6 @@ Kinematics is the study of the motion of mechanical points, bodies, and systems 
 **Resources:**
 - [Crash Course Physics - Kinematics](https://www.youtube.com/playlist?list=PL8dPuuaLjxdWh7kDudTA_8jY6L-mKn-Zc)
 - [MIT OpenCourseWare - Kinematics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
-
-## 7. Capacitance
-
-The ratio of the change in an electric charge in a system to the corresponding change in its electric potential.
-**Resources:**
-- [Byjus capacitance](https://byjus.com/physics/capacitor-and-capacitance/)
-  
-
 
 ## 9. Asymmetric Key Cryptography
 
@@ -298,3 +291,18 @@ Application development is the process of creating software applications for var
 **Resources:**
 -  [Code Academy-App development](https://www.codecademy.com/)
 -  [Android Developers-App development](https://developer.android.com/guide/)
+
+## 37. Capacitance
+
+The ratio of the change in an electric charge in a system to the corresponding change in its electric potential.
+**Resources:**
+- [Byjus capacitance](https://byjus.com/physics/capacitor-and-capacitance/)
+
+## 38. Current electricity
+
+ Current electricity is a branch of physics that deals the flow of electrons from one section of the circuit to another .  Electric 
+ current is the rate of flow of electrons in a conductor .
+ 
+**Resources:**
+- [Byjus - Current electricity](https://byjus.com/physics/current-electricity/)
+- [Electrical4u - Current electricity](https://www.electrical4u.com/electric-current-and-theory-of-electricity/)
