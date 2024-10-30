@@ -180,4 +180,3 @@ Electrostatics is the study of stationary electric charges and their interaction
 **Resources:** 
 - [Khan Academy - Electrostatics](https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage)
 - [The Physics Classroom - Electrostatics](https://www.physicsclassroom.com/class/estatics)
-
