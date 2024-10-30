@@ -279,9 +279,15 @@ C++ is a high-level, general-purpose programming language known for its efficien
 - [Codecademy - Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
 - [freeCodeCamp - C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 
-## 20. Python
+## 33. Python
 
  Python is commonly used for developing websites and software, task automation, data analysis, and data visualisation. Since it's relatively easy to learn, Python has been adopted by many non-programmers, such as accountants and scientists, for a variety of everyday tasks, like organising finances.
 
 **Resources:**
 -[basics of python](https://youtu.be/kqtD5dpn9C8?si=LXzv4i93eYYpY3J5)
+## 34. Differential calculus
+
+
+**Resources:**
+- [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
+- [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
