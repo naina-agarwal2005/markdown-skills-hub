@@ -56,6 +56,7 @@ Theoretical physics is a branch of physics that uses mathematical models and the
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
+=======
 ## 7. Aerodynamics
 
 Aerodynamics is a branch of physics that deals with the air resistance of objects.
