@@ -194,3 +194,10 @@ Organic chemistry is the study of the structure, properties, composition, reacti
 
 **Resources:**
 - [Khan Academy -  Organic chemistry](https://www.khanacademy.org/science/organic-chemistry)
+## 26. optics 
+
+Optics is the branch of physics that studies the behaviour and properties of light,
+
+**Resources:**
+- [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
+- [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
