@@ -207,4 +207,3 @@ Optics is the branch of physics that studies the behaviour and properties of lig
 
 Rotational motion is a branch of physics.
 
-
