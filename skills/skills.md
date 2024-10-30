@@ -195,3 +195,9 @@ R programming is a language and environment primarily used for statistical compu
 - [basics of R programming ](https://www.udemy.com/course/r-analytics/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-Search_Keyword_Beta_Prof_la.EN_cc.India&campaigntype=Search&portfolio=Bing-India&language=EN&product=Course&test=&audience=Keyword&topic=Artificial_Intelligence&priority=Beta&utm_content=deal4584&utm_term=_._ag_1328212434751390_._ad__._kw_R%20language_._de_c_._dm__._pl__._ti_kwd-83014398137523:loc-90_._li_155441_._pd__._&matchtype=p&msclkid=cb41d7c5f9c51b645593b0e521ded4fa)
 - [R tutorial](https://www.w3schools.com/r/)
 
+## 20. Python
+
+ Python is commonly used for developing websites and software, task automation, data analysis, and data visualisation. Since it's relatively easy to learn, Python has been adopted by many non-programmers, such as accountants and scientists, for a variety of everyday tasks, like organising finances.
+
+**Resources:**
+-[basics of python](https://youtu.be/kqtD5dpn9C8?si=LXzv4i93eYYpY3J5)
