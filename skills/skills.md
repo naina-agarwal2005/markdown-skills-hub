@@ -49,7 +49,6 @@ AI is the simulation of human intelligence processes by machines, especially com
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
-
 ## 6. Theoretical physics 
 Theoretical physics is a branch of physics that uses mathematical models and the properties of physical objects to understand and explain natural phenomena. 
 **Resources:**
@@ -361,3 +360,11 @@ Wave optics is basically a study of light as a wave, explaining phenomena like i
 **Resources:**
 - [ashish arora-wave optics](https://www.youtube.com/playlist?list=PLv2aNkLwdGweEBdedvxdFDKqGhcmww89z)
 - [eduniti-waveoptics](https://www.youtube.com/playlist?list=PLjvx7xqdpePJ3lHx7uc5dSi-JqmJweDSZ)
+
+## 46. HTML-Hypertext Markup Language
+
+Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content.
+
+**Resources:**
+- [HTML for beginners](https://html.com/)
+- [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/HTML))
