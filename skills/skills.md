@@ -236,4 +236,4 @@ Quantum computing harnesses the principles of quantum mechanics to perform compl
 
 **Resources:**
 - [Youtube](https://youtu.be/2h1E3YJMKfA?si=YP695bruYUXcQMO7)
-
+- [Courses - Quantum computing](https://www.coursera.org/learn/introduction-to-quantum-information)
