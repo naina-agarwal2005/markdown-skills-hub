@@ -173,6 +173,8 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
+
+    
 ## 22. Electrostatics
 
 Electrostatics is the study of stationary electric charges and their interactions. It forms the foundation for understanding concepts like electric fields, potential, and capacitance.
@@ -184,3 +186,6 @@ Electrostatics is the study of stationary electric charges and their interaction
 ## 23. Theory of Relativity
 
 The theory of relativity usually encompasses two interrelated physics theories by Albert Einstein: special relativity and general relativity, proposed and published in 1905 and 1915, respectively
+## 24. C
+
+C is a high level programming language.
