@@ -46,7 +46,7 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
- 
+
 ## 6. Theoretical physics 
 Theoretical physics is a branch of physics that uses mathematical models and the properties of physical objects to understand and explain natural phenomena. 
 **Resources:**
@@ -237,3 +237,10 @@ Quantum computing harnesses the principles of quantum mechanics to perform compl
 **Resources:**
 - [Youtube](https://youtu.be/2h1E3YJMKfA?si=YP695bruYUXcQMO7)
 - [Courses - Quantum computing](https://www.coursera.org/learn/introduction-to-quantum-information)
+## 32. C++
+
+C++ is a high-level, general-purpose programming language known for its efficiency and fast speed. It's used for game development, embedded systems, scientific computing and more.
+
+**Resources:**
+- [Codecademy - Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
+- [freeCodeCamp - C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
