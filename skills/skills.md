@@ -19,8 +19,7 @@ JavaScript is a versatile programming language primarily used for front-end web 
 
 ## 2. Python 
 
-Python is a high-level, general-purpose programming language known for its readability and versatility. It's used for web development, data science, machine learning, scripting, and more.
-
+Python is a high-level, general-purpose programming language known for its readability and versatility. It's used for web development, data science, machine learning, scripting, and more
 **Resources:**
 - [Official Python Tutorial](https://docs.python.org/3/tutorial/) 
 - [Real Python Tutorials](https://realpython.com/)
