@@ -194,3 +194,10 @@ Organic chemistry is the study of the structure, properties, composition, reacti
 
 **Resources:**
 - [Khan Academy -  Organic chemistry](https://www.khanacademy.org/science/organic-chemistry)
+
+## 26. Semiconductors
+
+Semiconductors are materials which have a conductivity between conductors (generally metals) and non-conductors or insulators (such as ceramics).
+
+**Resources:**
+- [Byjus -  Semiconductors ](https://byjus.com/jee/semiconductors/)
