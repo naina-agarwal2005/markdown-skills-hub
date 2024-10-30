@@ -367,3 +367,12 @@ Hypertext Markup Language (HTML) is the standard markup language for documents d
 **Resources:**
 - [HTML for beginners](https://html.com/)
 - [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/HTML))
+- 
+
+## 47. REACT
+React is a JavaScript Library used to build user interfaces. It is developed by Facebook.  React JS is used to create single-page applications (SPAs).
+
+**Resources:**
+- [Intro-React](https://www.w3schools.com/react/react_intro.asp)
+- [dev-React](https://react.dev/)
+
