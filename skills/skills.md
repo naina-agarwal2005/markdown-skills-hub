@@ -291,3 +291,10 @@ In astronomy, dark matter is a hypothetical form of matter that does not interac
 **Resources:**
 - [NASA - Dark Matter and Dark Energy](https://science.nasa.gov/universe/dark-matter-dark-energy/)
 - [Space- What is Dark Matter?](https://www.space.com/20930-dark-matter.html)
+
+## 36. App Development
+Application development is the process of creating software applications for various platforms, such as desktop computers, mobile devices and web browsers.
+
+**Resources:**
+-  [Code Academy-App development](https://www.codecademy.com/)
+-  [Android Developers-App development](https://developer.android.com/guide/)
