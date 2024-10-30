@@ -47,7 +47,6 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
-
 ## 6. Java
 
 Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible.
@@ -165,3 +164,10 @@ R programming is a language and environment primarily used for statistical compu
 **Resources:**
 - [Basics of R Programming](https://www.udemy.com/course/r-analytics/)
 - [W3Schools - R Tutorial](https://www.w3schools.com/r/)
+## 21.  Ray Dynamics
+
+Thermodynamics is a branch of physics that deals with heat, work, temperature, and their relation to energy, radiation, and the physical properties of matter.
+
+**Resources:**
+- [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
+- [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
