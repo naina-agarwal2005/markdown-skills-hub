@@ -172,7 +172,6 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
-
     
 ## 22. Electrostatics
 
@@ -188,12 +187,14 @@ The theory of relativity usually encompasses two interrelated physics theories b
 ## 24. C
 
 C is a high level programming language.
+
 ## 25. Organic chemistry 
 
 Organic chemistry is the study of the structure, properties, composition, reactions, and preparation of carbon-containing compounds
 
 **Resources:**
 - [Khan Academy -  Organic chemistry](https://www.khanacademy.org/science/organic-chemistry)
+
 ## 26. optics 
 
 Optics is the branch of physics that studies the behaviour and properties of light,
@@ -201,3 +202,9 @@ Optics is the branch of physics that studies the behaviour and properties of lig
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+## 27.  Rotational motion  
+
+Rotational motion is a branch of physics.
+
+
