@@ -39,23 +39,19 @@ Quantum mechanics is a fundamental theory in physics that describes the physical
 - [Crash Course Physics - Quantum Mechanics](https://www.youtube.com/playlist?list=PL8dPuuaLjxdWh7kDudTA_8jY6L-mKn-Zc)
 - [MIT OpenCourseWare - Quantum Mechanics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
 
-## 5. thermodynamics 
+## 5. Thermodynamics 
 
 Thermodynamics is a branch of physics that deals with heat, work, temperature, and their relation to energy, radiation, and the physical properties of matter.
+
+**Resources:**
+- [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
+- [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
 ## 6. theoretical physics 
 Theoretical physics is a branch of physics that uses mathematical models and the properties of physical objects to understand and explain natural phenomena. 
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
-
-## 6. Java
-
-Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible.
-
-**Resources:**
-- [Bro Code - Java](https://www.youtube.com/watch?v=xk4_1vDrzzo)
-- [Kunal Kushwaha - Java](https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
 ## 7. Aerodynamics
 
@@ -208,4 +204,21 @@ Optics is the branch of physics that studies the behaviour and properties of lig
 ## 27.  Rotational motion  
 
 Rotational motion is a branch of physics.
+
+## 28. States of matter
+
+Study of the staes of matter
+
+**Resources:**
+- [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/states of matter)
+- [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/matter.html)
+
+## 29. Java
+
+Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible.
+
+**Resources:**
+- [Bro Code - Java](https://www.youtube.com/watch?v=xk4_1vDrzzo)
+- [Kunal Kushwaha - Java](https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+
 
