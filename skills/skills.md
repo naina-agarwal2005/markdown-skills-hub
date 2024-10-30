@@ -367,3 +367,11 @@ Hypertext Markup Language (HTML) is the standard markup language for documents d
 **Resources:**
 - [HTML for beginners](https://html.com/)
 - [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/HTML))
+
+## 47. Learning how to install Flutter 
+
+Flutter is a versatile language which supports all platforms and devices ;
+
+**Resources:**
+- [Flutter developers page](https://flutter.dev/)
+- [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/HTML))
