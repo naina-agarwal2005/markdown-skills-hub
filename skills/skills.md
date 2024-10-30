@@ -16,9 +16,6 @@ JavaScript is a versatile programming language primarily used for front-end web 
 **Resources:**
 - [Mozilla Developer Network (MDN) JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [freeCodeCamp JavaScript Curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-**laser**
-  light emitted stimulated emission radiation
-  https://github.com/poojitha572/markdown-skills-hub/edit/main/skills/skills.md
 ## 2. Python 
 
 Python is a high-level, general-purpose programming language known for its readability and versatility. It's used for web development, data science, machine learning, scripting, and more
