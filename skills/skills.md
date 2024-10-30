@@ -47,6 +47,7 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
+
 ## 6. Java
 
 Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible.
@@ -173,3 +174,10 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 - [Khan Academy - integrtion](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - integrtion](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
+## 22. Electrostatics
+
+Electrostatics is the study of stationary electric charges and their interactions. It forms the foundation for understanding concepts like electric fields, potential, and capacitance.
+
+**Resources:** 
+- [Khan Academy - Electrostatics](https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage)
+- [The Physics Classroom - Electrostatics](https://www.physicsclassroom.com/class/estatics)
