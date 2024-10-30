@@ -367,3 +367,9 @@ Hypertext Markup Language (HTML) is the standard markup language for documents d
 **Resources:**
 - [HTML for beginners](https://html.com/)
 - [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/HTML))
+
+## 47. COMPUTER NETWORKING
+computer networking is basically the method of connecting devices to exchange data and resources.It is used to establish a communication between various devices in a network.
+
+** Resources: **
+-[Introduction to IOT by prof Sudeep Mishra]
