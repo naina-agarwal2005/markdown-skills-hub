@@ -56,7 +56,6 @@ Theoretical physics is a branch of physics that uses mathematical models and the
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
-=======
 ## 7. Aerodynamics
 
 Aerodynamics is a branch of physics that deals with the air resistance of objects.
@@ -194,24 +193,16 @@ Electrostatics is the study of stationary electric charges and their interaction
 - [Khan Academy - Electrostatics](https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage)
 - [The Physics Classroom - Electrostatics](https://www.physicsclassroom.com/class/estatics)
 
-  ## C Programming
-  -[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
-  -[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
-
-## 113. Dark Matter
-
-In astronomy, dark matter is a hypothetical form of matter that does not interact with light or other electromagnetic radiation.
-
-**Resources:**
-- [NASA - Dark Matter and Dark Energy](https://science.nasa.gov/universe/dark-matter-dark-energy/)
-- [Space- What is Dark Matter?](https://www.space.com/20930-dark-matter.html)
-=======
 ## 23. Theory of Relativity
 
 The theory of relativity usually encompasses two interrelated physics theories by Albert Einstein: special relativity and general relativity, proposed and published in 1905 and 1915, respectively
 ## 24. C
 
 C is a high level programming language.
+
+**Resources:** 
+-[W3schools-C tutorial](https://www.w3schools.com/c/index.php)
+-[GeeksforGeeks-C programming language tutorial](https://www.geeksforgeeks.org/c-programming-language/)
 
 ## 25. Organic chemistry 
 
@@ -264,6 +255,7 @@ Thermodynamics is a branch of physics that deals with heat, work, temperature, a
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
 
+
 ## 31. Quantum Computing 
 
 Quantum computing harnesses the principles of quantum mechanics to perform complex computations exponentially faster than classical computers.
@@ -291,3 +283,11 @@ C++ is a high-level, general-purpose programming language known for its efficien
 **Resources:**
 - [Khan Academy - Thermodynamics](https://www.khanacademy.org/science/physics/thermodynamics)
 - [HyperPhysics - Thermodynamics](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html)
+
+## 35. Dark Matter
+
+In astronomy, dark matter is a hypothetical form of matter that does not interact with light or other electromagnetic radiation.
+
+**Resources:**
+- [NASA - Dark Matter and Dark Energy](https://science.nasa.gov/universe/dark-matter-dark-energy/)
+- [Space- What is Dark Matter?](https://www.space.com/20930-dark-matter.html)
