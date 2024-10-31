@@ -367,3 +367,12 @@ Hypertext Markup Language (HTML) is the standard markup language for documents d
 **Resources:**
 - [HTML for beginners](https://html.com/)
 - [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/HTML))
+
+## 47 C programming 
+
+C is an imperative procedural language, supporting structured programming, lexical variable scope, and recursion, with a static type system. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support.
+
+**Resources:**
+- [apna college-c programmingforbeginners](https://youtu.be/irqbmMNs2Bo?si=H8tVBoykG-wzhdMX)
+- [simplilearn-into to C lang](https://youtu.be/gEJBFKDkqTE?si=aJsO06lRbFiSeGKN)
+  
