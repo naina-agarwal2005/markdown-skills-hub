@@ -136,7 +136,9 @@ To use this command, copy the text above, replace `"your.email@example.com"` wit
 | `git pull <remote> <branch>` | Fetches changes from a remote repository and merges them into the local branch. | ```bash git pull origin main ``` | 
 | `git branch` | Lists all branches in the local repository. | ```bash git branch ``` |
 | `git branch <branch-name>` | Creates a new branch. | ```bash git branch feature/new-design ``` |
-| `git checkout <branch-name>` | Switches to a different branch. | ```bash git checkout feature/new-design ``` |
+| `git reset <file>` | unstage a file while retaining the changes in working directory. | ```bash git checkout feature/new-design ``` | 
+| `git checkout <branch-name>` | Switches to a different branch. | ```bash git checkout feature/new-design ``` |  ##Resetting a Single File to the Latest Commit
+
 | `git merge <branch-name>` | Merges the specified branch into the current branch. | ```bash git merge feature/new-design ``` | 
 | `git branch -d <branch-name>` | Deletes a branch. | ```bash git branch -d feature/new-design ``` | 
 | `git log` | Shows the commit history of the current branch. | ```bash git log ``` | 
@@ -150,5 +152,4 @@ To use this command, copy the text above, replace `"your.email@example.com"` wit
 | `git stash` | Saves uncommitted changes temporarily. | ```bash git stash ``` | 
 | `git stash pop` | Restores the most recently stashed changes. | ```bash git stash pop ``` | 
 | `git config --global user.name "Your Name"` | Sets your name globally. | ```bash git config --global user.name "Your Name" ``` |
-| `git config --global user.email "your.email@example.com"` | Sets your email globally. | ```bash git config --global user.email "your.email@example.com" ``` |
-
+| `git config --global user.email "your.email@example.com"` | Sets your email globally. | ```bash git config --global user.email "your.email@example.com" ``` | 
