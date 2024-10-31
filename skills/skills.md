@@ -397,3 +397,11 @@ C is an imperative procedural language, supporting structured programming, lexic
 **Resources:**
 - [apna college-c programmingforbeginners](https://youtu.be/irqbmMNs2Bo?si=H8tVBoykG-wzhdMX)
 - [simplilearn-into to C lang](https://youtu.be/gEJBFKDkqTE?si=aJsO06lRbFiS
+
+ ## 48 Figma
+ Figma is a web application and desktop app for collaborative design. Figma is a popular tool for designers, product managers, writers, and developers. It 
+ offers real-time collaboration, and users can share templates, designs, and widgets with others. 
+
+ **Resources: **
+ - [Figma in one shot](https://www.youtube.com/watch?v=mpJb9GNxdYI&ab_channel=CodeWithHarry)
+ - [Full figma basic to advanced course](https://www.youtube.com/watchv=bI6q16ffdgQ&list=PLlHtucAD9KT19ckHqXpPSStZOyDSq9AW-&ab_channel=AnshMehra)
