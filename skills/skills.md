@@ -400,7 +400,7 @@ C is an imperative procedural language, supporting structured programming, lexic
 
  ## 48 Figma
  Figma is a web application and desktop app for collaborative design. Figma is a popular tool for designers, product managers, writers, and developers. It 
- offers real-time collaboration, and users can share templates, designs, and widgets with others. 
+ offers real-time collaboration, and users can share templates, designs, and widgets with others. Figma is available on a variety of devices, including Macs, PCs, and Chromebooks. 
 
  **Resources: **
  - [Figma in one shot](https://www.youtube.com/watch?v=mpJb9GNxdYI&ab_channel=CodeWithHarry)
