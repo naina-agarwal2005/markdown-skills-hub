@@ -253,3 +253,10 @@ C++ is a high-level, general-purpose programming language known for its efficien
 - [Codecademy - Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
 - [freeCodeCamp - C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 
+- ## 33. C Programming 
+
+C programming is one of the intial coding languages used for coding microcontrollers 
+
+**Resources:**
+- [CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/)
+- [Coursera](https://www.coursera.org/specializations/c-programming)
