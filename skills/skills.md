@@ -261,6 +261,7 @@ C++ is a high-level, general-purpose programming language known for its efficien
 - [Codecademy - Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
 - [freeCodeCamp - C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 
+
 ## 33. Python
 
  Python is commonly used for developing websites and software, task automation, data analysis, and data visualisation. Since it's relatively easy to learn, Python has been adopted by many non-programmers, such as accountants and scientists, for a variety of everyday tasks, like organising finances.
@@ -396,7 +397,7 @@ C is an imperative procedural language, supporting structured programming, lexic
 
 **Resources:**
 - [apna college-c programmingforbeginners](https://youtu.be/irqbmMNs2Bo?si=H8tVBoykG-wzhdMX)
-- [simplilearn-into to C lang](https://youtu.be/gEJBFKDkqTE?si=aJsO06lRbFiS
+- [simplilearn-into to C lang](https://youtu.be/gEJBFKDkqTE?si=aJsO06lRbFiS)
   ## 50 Full Stack Developing
 
 Full-stack developers design and create websites and applications for various platforms. A full-stack developer's job description might include the following: Develop and maintain web services and interfaces. Contribute to front-end and back-end development processes.6 Feb 2024
@@ -404,4 +405,11 @@ Full-stack developers design and create websites and applications for various pl
 **Resources:**
 - [https://dev.to/thelogicwarlock/my-full-stack-web-developer-resources-2foj]
   
+
+- ## 51. Calculus 
+
+Calculus is concerned with two basic operations, differentiation and integration, and is a tool used by engineers to determine such quantities as rates of change and areas
+**Resources:**
+- [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Coursera](https://www.coursera.org/learn/introduction-to-calculus)
 
