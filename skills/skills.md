@@ -367,6 +367,14 @@ Hypertext Markup Language (HTML) is the standard markup language for documents d
 **Resources:**
 - [HTML for beginners](https://html.com/)
 - [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/HTML))
+- 
+
+## 47. REACT
+React is a JavaScript Library used to build user interfaces. It is developed by Facebook.  React JS is used to create single-page applications (SPAs).
+
+**Resources:**
+- [Intro-React](https://www.w3schools.com/react/react_intro.asp)
+- [dev-React](https://react.dev/)
 
 ## 47. COMPUTER NETWORKING
 computer networking is basically the method of connecting devices to exchange data and resources.It is used to establish a communication between various devices in a network.
@@ -379,5 +387,4 @@ C is an imperative procedural language, supporting structured programming, lexic
 
 **Resources:**
 - [apna college-c programmingforbeginners](https://youtu.be/irqbmMNs2Bo?si=H8tVBoykG-wzhdMX)
-- [simplilearn-into to C lang](https://youtu.be/gEJBFKDkqTE?si=aJsO06lRbFiSeGKN)
-
+- [simplilearn-into to C lang](https://youtu.be/gEJBFKDkqTE?si=aJsO06lRbFiS
