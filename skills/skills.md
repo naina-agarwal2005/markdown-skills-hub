@@ -397,3 +397,11 @@ C is an imperative procedural language, supporting structured programming, lexic
 **Resources:**
 - [apna college-c programmingforbeginners](https://youtu.be/irqbmMNs2Bo?si=H8tVBoykG-wzhdMX)
 - [simplilearn-into to C lang](https://youtu.be/gEJBFKDkqTE?si=aJsO06lRbFiS
+  ## 50 Full Stack Developing
+
+Full-stack developers design and create websites and applications for various platforms. A full-stack developer's job description might include the following: Develop and maintain web services and interfaces. Contribute to front-end and back-end development processes.6 Feb 2024
+
+**Resources:**
+- [https://dev.to/thelogicwarlock/my-full-stack-web-developer-resources-2foj]
+  
+
